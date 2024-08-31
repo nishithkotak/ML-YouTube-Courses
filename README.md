@@ -84,6 +84,13 @@ At DAIR.AI we ❤️ open AI education. In this repo, we index and organize some
 
 - [Multi-Task and Meta-Learning (Stanford)](#stanford-cs330-deep-multi-task-and-meta-learning)
 
+**AI Project Videos**
+- Python AI Projects (#https://www.youtube.com/watch?v=QM5XDc4NQJo&list=PL7yh-TELLS1G9mmnBN3ZSY8hYgJ5kBOg-)
+- Pytorch Deep Learning (ConvNets) (#https://www.youtube.com/watch?v=BzcBsTou0C0&list=PLQVvvaa0QuDdeMyHEYc0gxFpYwHY2Qfdh)
+- Natural Language Processing (#https://www.youtube.com/watch?v=fNxaJsNG3-s&list=PLQY2H8rRoyvzDbLUZkbudP-MFQZwNmU4S)
+- 
+
+
 **Others**
 
 - [MIT Deep Learning in Life Sciences](#mit-deep-learning-in-life-sciences)
